@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "brIGSWgzTuOM+15NpJniU3Eq14VartnDfLRB/xHMcb9kwdueA7MQdeCfaxqZ/3034f4L4bMb+jAB+27QUiwxYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danic\\Desktop\\TaskManager\\TaskManager\\TaskManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danic\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\danic\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\danic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
