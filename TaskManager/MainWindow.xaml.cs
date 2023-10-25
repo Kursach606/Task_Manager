@@ -69,7 +69,7 @@ namespace TaskManager
 
             // Обновляется список
             LoadTasks();
-            CheckDueDates();
+            
         }
 
         private void EditTask_Click(object sender, RoutedEventArgs e)
@@ -83,7 +83,7 @@ namespace TaskManager
 
                 // Обновление списка
                 LoadTasks();
-                CheckDueDates();
+               
             }
         }
 
